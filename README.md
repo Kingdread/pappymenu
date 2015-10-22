@@ -29,6 +29,8 @@ Requirements
 - GObject3 bindings for Python 3 (Package `python-gobject` in Arch,
   `python3-gi` in Ubuntu)
 - `lxml` for Python 3 (used to parse the output of `xdg_menu`)
+- `python-xdg` (XDG standards for Python 3, may be `python3-xdg`, depending on
+   your distro)
 
 Installation
 ------------
